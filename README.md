@@ -1,5 +1,5 @@
 # 🧮 Calculadora-grupal-en-C-Sharp
-Este es un trabajo grupal de segundo ciclo universitario hecho para practicar la colaboración en Github.
+Descripción breve: Este es un trabajo grupal de segundo ciclo universitario hecho para practicar la colaboración en Github.
 
 🚀 Guía de Inicio (Para el equipo)
 1. Clonar el proyecto
